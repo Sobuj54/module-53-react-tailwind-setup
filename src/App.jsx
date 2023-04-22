@@ -10,7 +10,7 @@ function App() {
   return (
     <>
     <Navbar></Navbar>
-    <h1 className='text-9xl text-blue-700'>hellow from tailwind.</h1>
+    <h1 className='text-5xl text-blue-700'>hellow from tailwind.</h1>
     </>
   )
 }
