@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name":"basic membership",
+        "price":250,
+        "features":["free trainer", "access to equipment","Locker room"]
+    },
+    {
+        "id":1,
+        "name":"Premium membership",
+        "price":500,
+        "features":["free trainer", "access to equipment","Locker room","personal training session"]
+    },
+    {
+        "id":1,
+        "name":"Corporate membership",
+        "price":250,
+        "features":["free trainer", "access to equipment","Locker room","personal training session","free meal for employees"]
+    }
+]
